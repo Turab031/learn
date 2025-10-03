@@ -29,6 +29,7 @@ import { useState } from 'react'
 import Us from './Us'
 import Ue from './Ue'
 import Ur from './Ur'
+import Um from './Um'
 
 const App = () => {
   
@@ -38,7 +39,8 @@ const App = () => {
     <div>
      {/* <Us/> */}
      {/* <Ue/> */}
-     <Ur/>
+     {/* <Ur/> */}
+     <Um/>
     </div>
   )
 }
